@@ -1,0 +1,5 @@
+this file is for git commands.
+git clone
+git status
+git add .
+git commit -m "msg"
