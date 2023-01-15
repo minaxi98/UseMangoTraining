@@ -1,2 +1,3 @@
 Git exercise rebase try2
 git exercise1
+git part3
