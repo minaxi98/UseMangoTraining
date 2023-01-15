@@ -7,3 +7,4 @@ git push -u origin master
 git push
 git pull
 git status
+git log
